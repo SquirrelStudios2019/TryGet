@@ -1,0 +1,33 @@
+INTRODUCTION
+
+Squirrel Studios values your privacy. This Privacy Policy informs you of your choices and our practices regarding any Information you provide to us.
+
+The use of our services may involve the collection and use of your Information on our services. It is important for you to understand how this happens and how you may control it, so please read this Privacy Policy carefully.
+
+By using our services, you agree that we may collect, use your Information in accordance with this Privacy Policy, as revised from time to time.
+
+SCOPE OF THIS PRIVACY POLICY
+
+This Privacy Policy applies to the services provided by TryGet. 
+
+CHANGES TO THIS PRIVACY POLICY
+
+We may from time to time revise or add specific instructions, policies and terms to this Privacy Policy. These instructions, policies and terms form part of this Privacy Policy.
+
+Where we consider that any changes to this Privacy Policy are reasonably material, we will post relevant information in a prominent place on the page to notify you in a timely manner.
+
+By continuing to use our services after any changes to this Privacy Policy, with or without notice from us, you are agreeing to the revised Privacy Policy.
+
+THE INFORMATION WE COLLECT
+
+In providing our services, we do not collect any data related to personal information. we collect, store and use the following Information relating:
+
+"Log Data" is technical information that is automatically collected by us when you use our services, including:
+
+product usage data: such as the number of uses and relationships of each page.
+
+software error report:such as the type of problem or severity, details of the software or hardware associated with the error.we collects product error messages and any problems you may have while using them. 
+
+HOW WE USE THE INFORMATION
+
+We uses information generated from the product to diagnose problems in the products you use, as well as improve products and provide solutions.
