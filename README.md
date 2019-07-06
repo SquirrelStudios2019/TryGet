@@ -1,2 +1,2 @@
 # TryGet
-A multi-task file download app
+A multi-task file download manager
